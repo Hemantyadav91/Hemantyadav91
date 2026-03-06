@@ -1,6 +1,9 @@
+![Banner Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, I'm Hemant Kumar Yadav</h1>
 <h3 align="center">Aspiring Web Developer | Cloud Learner | Computer Science Student</h3>
-![Banner Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+---
 
 ## 👨‍💻 About Me
 
@@ -24,22 +27,19 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Technologies**
-
+### Languages & Technologies
 - HTML  
 - CSS  
 - JavaScript  
 
-**Tools**
-
+### Tools
 - Git  
 - GitHub  
 - VS Code  
 
-**Currently Learning**
-
-- Cloud Computing
-- Advanced Web Development
+### Currently Learning
+- Cloud Computing  
+- Advanced Web Development  
 
 ---
 
@@ -65,8 +65,8 @@ More projects coming soon as I continue learning and building.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: 
-- 📧 Email:  
+- 💼 LinkedIn: Add your LinkedIn profile here  
+- 📧 Email: Add your email here  
 
 ---
 
