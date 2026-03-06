@@ -1,40 +1,55 @@
 # Hi there, I'm Hemnat Kumar Yadav! 👋
+💻 Aspiring Web Developer & Cloud Learner
+🎓 Computer Science Student from India
+🚀 Currently improving my development skills by building practical projects
 
 ![Banner Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## About Me 🚀
+🌱 Currently learning Cloud Engineering
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+💻 Skilled in HTML, CSS, and JavaScript
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+🛠 Building projects to improve my frontend development
 
-## My Skills 🧠
+📚 Interested in Computer Science concepts and modern web technologies
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+🎯 Goal: Become a skilled developer and build impactful products
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+🚀 Current Focus
 
-### [Project 1 Title](project_1_link)
+Practicing frontend projects
 
-![Project 1 Screenshot](project_1_screenshot_url)
+Learning Git & GitHub
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Exploring Cloud Computing
 
-### [Project 2 Title](project_2_link)
+Improving problem solving and coding skills
 
-![Project 2 Screenshot](project_2_screenshot_url)
+🛠 Tech Stack
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+Languages: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+Learning: Cloud Computingused]**. This project showcases my skills in **[skillsdemonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+📌 Projects
+
+Here are some things I'm working on:
+
+💼 Portfolio Website
+
+🔎 Internship Finder (Web Project)
+
+🎯 Practice Projects to master HTML & CSS
+
+📫 Connect With Me
+
+💼 LinkedIn: Add your LinkedIn link here
+
+📧 Email: Add your email here
 
 ## Get in Touch 📬
 
