@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science student from **India**
 - 💻 Passionate about **Web Development and Technology**
-- 🌱 Currently learning **Cloud Engineering**
+- 🌱 Currently learning **AI Engineering**
 - 🚀 Improving my skills by building **real-world projects**
 - 🧠 Interested in **Computer Science concepts and modern technologies**
 - 🎯 Goal: Become a **skilled developer and build impactful products**
