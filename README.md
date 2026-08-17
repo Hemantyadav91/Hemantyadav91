@@ -22,7 +22,7 @@
 
 - Building **frontend projects to master HTML & CSS**
 - Learning **Git and GitHub for better collaboration**
-- Exploring **Cloud Computing fundamentals**
+- Exploring **AI fundamentals**
 - Improving **problem solving and coding skills**
 
 ---
@@ -40,7 +40,7 @@
 - VS Code  
 
 ### Currently Learning
-- Cloud Computing  
+- AI  
 - Advanced Web Development  
 
 ---
